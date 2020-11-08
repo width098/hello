@@ -5,3 +5,4 @@ $ git commit -m "wrote a readme file"
 那你要干嘛
 哈哈哈
 暂存区
+管理修改1
